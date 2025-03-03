@@ -23,7 +23,6 @@ My name is Pavel Ivanov, and I'm a software developer student. I'm interested in
 
 I am looking for an internship where I can develop my skills and contribute to real-world projects. Excited to collaborate and work on new challenges! 🚀
 
-I would be happy to collaborate and work on new projects! 🚀
 
 
 <!--
