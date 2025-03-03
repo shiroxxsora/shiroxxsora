@@ -4,7 +4,7 @@
 My name is Pavel Ivanov, and I'm a software developer student. I'm interested in backend application development, computer vision, 3D modeling, and game creation.
 
 ## 🚀 Skills and Technologies
-- Python (Django, Django Rest Framework, Stirpe, NumPy, TensorFlow)
+- Python (Django, Django Rest Framework, Stripe, NumPy, TensorFlow)
 - C# (WPF, Unity, .NET Framework, ASP.NET)
 - C++ (STL, algorithms)
 - SQL (MySQL, PostgreSQL)
