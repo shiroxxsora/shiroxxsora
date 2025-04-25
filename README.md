@@ -1,11 +1,12 @@
 # Hi, I'm Pavel Ivanov! 👋
 
 ## 💻 About Me
-My name is Pavel Ivanov, and I'm a software developer student. I'm interested in backend application development, computer vision, 3D modeling, and game creation.
+My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend application development, computer vision, and game creation.
 
 ## 🚀 Skills and Technologies
+- Java (Spring Boot)
 - Python (Django, Django Rest Framework, Stripe, NumPy, TensorFlow)
-- C# (WPF, Unity, .NET Framework, ASP.NET)
+- C# (Unity, .NET Framework, ASP.NET)
 - C++ (STL, algorithms)
 - SQL (MySQL, PostgreSQL)
 - NoSQL (MongoDB)
@@ -15,7 +16,6 @@ My name is Pavel Ivanov, and I'm a software developer student. I'm interested in
 - Git (GitHub, GitLab), Linux
 
 ## 🎮 Current Projects
-- **A game about a bunny collecting carrots**
 - **Thesis on computer vision**
 
 ## 📫 Contact Me
