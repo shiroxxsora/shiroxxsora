@@ -16,7 +16,8 @@ My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend
 - Git (GitHub, GitLab), Linux
 
 ## 🎮 Current Projects
-- **Thesis on computer vision**
+- **Thesis on computer vision** (partially done)
+- **Voice2Text and ai agent that summarizes that**
 
 ## 📫 Contact Me
 - Telegram: [shiroxxsora](https://t.me/shiroxxsora)
