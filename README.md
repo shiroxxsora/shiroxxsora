@@ -4,7 +4,7 @@
 My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend application development, computer vision, and game creation.
 
 ## 🚀 Skills and Technologies
-- Java (Spring Boot, Reactive, Maven/Gradle, Flyway, Scheduling(ThreadPoolTaskExecutor/Quartz))
+- Java (Spring Boot, Reactive, Maven/Gradle, Flyway/Liquibase, Scheduling(ThreadPoolTaskExecutor/Quartz))
 - Python (Django, Django Rest Framework, Stripe, NumPy, TensorFlow)
 - C# (Unity, .NET Framework, ASP.NET, LINQ)
 - C++ (STL, algorithms)
