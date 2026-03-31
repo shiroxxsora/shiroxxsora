@@ -4,11 +4,11 @@
 My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend application development, computer vision, and game creation.
 
 ## 🚀 Skills and Technologies
-- Java (Spring Boot)
+- Java (Spring Boot, Reactive, Maven/Gradle, Flyway, Scheduling(ThreadPoolTaskExecutor/Quartz))
 - Python (Django, Django Rest Framework, Stripe, NumPy, TensorFlow)
-- C# (Unity, .NET Framework, ASP.NET)
+- C# (Unity, .NET Framework, ASP.NET, LINQ)
 - C++ (STL, algorithms)
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL, PostgreSQL, PostGIS)
 - NoSQL (MongoDB)
 - Computer vision and machine learning
 - Chatbot development and API
@@ -16,9 +16,10 @@ My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend
 - Git (GitHub, GitLab), Linux
 
 ## 🎮 Current Projects
-- **Thesis on computer vision** (partially done)
-- **Voice2Text and ai agent that summarizes that**
-
+- **Thesis on computer vision** (Done, refactor in process)
+- **Voice2Text and ai agent that summarizes that** (Done)
+- **MIS Medicine Information System** (in process)
+- 
 ## 📫 Contact Me
 - Telegram: [shiroxxsora](https://t.me/shiroxxsora)
 
