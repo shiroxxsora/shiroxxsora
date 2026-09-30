@@ -18,7 +18,7 @@ My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend
 ## 🎮 Current Projects
 - **Thesis on computer vision** (Done, refactor in process)
 - **Voice2Text and ai agent that summarizes that** (Done)
-- **MIS Medicine Information System** (in process)
+- **MIS Medicine Information System** (Done)
 - 
 ## 📫 Contact Me
 - Telegram: [shiroxxsora](https://t.me/shiroxxsora)
