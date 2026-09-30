@@ -5,6 +5,7 @@ My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend
 
 ## 🚀 Skills and Technologies
 - Java (Spring Boot, Reactive, Maven/Gradle, Flyway/Liquibase, Scheduling(ThreadPoolTaskExecutor/Quartz), S3)
+- Go (Logic and API)
 - Python (Django, Django Rest Framework, Stripe, NumPy, TensorFlow)
 - C# (Unity, .NET Framework, ASP.NET, LINQ)
 - C++ (STL, algorithms)
@@ -17,8 +18,8 @@ My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend
 
 ## 🎮 Current Projects
 - **Thesis on computer vision** (Done, refactor in process)
-- **Voice2Text and ai agent that summarizes that** (Done)
-- **MIS Medicine Information System** (Done)
+- **Voice2Text AI Summarization** (Done)
+- **Simple MIS(Medicine Information System)** (Done)
 - 
 ## 📫 Contact Me
 - Telegram: [shiroxxsora](https://t.me/shiroxxsora)
