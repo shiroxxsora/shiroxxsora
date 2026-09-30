@@ -9,7 +9,7 @@ My name is Pavel Ivanov, and I'm a software developer. I'm interested in backend
 - Python (Django, Django Rest Framework, Stripe, NumPy, TensorFlow)
 - C# (Unity, .NET Framework, ASP.NET, LINQ)
 - C++ (STL, algorithms)
-- SQL (MySQL, PostgreSQL, PostGIS)
+- SQL (MySQL, PostgreSQL, ClickHouse, PostGIS)
 - NoSQL (MongoDB)
 - Computer vision and machine learning
 - Chatbot development and API
